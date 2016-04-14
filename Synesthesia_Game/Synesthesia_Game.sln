@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4289A360-DC89-B0F0-9E70-C81A98C2E7A4}") = "Synesthesia_Game", "Assembly-CSharp-firstpass.csproj", "{DDDB7DBB-7CC7-772E-7BF1-B6857FECF49F}"
+EndProject
+Project("{4289A360-DC89-B0F0-9E70-C81A98C2E7A4}") = "Synesthesia_Game", "Assembly-CSharp.csproj", "{E17651EC-63FA-4CA9-0C53-F302EF289A76}"
+EndProject
+Project("{4289A360-DC89-B0F0-9E70-C81A98C2E7A4}") = "Synesthesia_Game", "Assembly-CSharp-Editor.csproj", "{E6A0FBD2-54B1-0F56-35B9-BBF7A14AC09C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDDB7DBB-7CC7-772E-7BF1-B6857FECF49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDB7DBB-7CC7-772E-7BF1-B6857FECF49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDB7DBB-7CC7-772E-7BF1-B6857FECF49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDB7DBB-7CC7-772E-7BF1-B6857FECF49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17651EC-63FA-4CA9-0C53-F302EF289A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17651EC-63FA-4CA9-0C53-F302EF289A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17651EC-63FA-4CA9-0C53-F302EF289A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17651EC-63FA-4CA9-0C53-F302EF289A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A0FBD2-54B1-0F56-35B9-BBF7A14AC09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A0FBD2-54B1-0F56-35B9-BBF7A14AC09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A0FBD2-54B1-0F56-35B9-BBF7A14AC09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A0FBD2-54B1-0F56-35B9-BBF7A14AC09C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
